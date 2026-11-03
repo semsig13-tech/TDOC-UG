@@ -2,6 +2,8 @@
 publish: true
 created: 2026-11-03T20:02:05.099Z
 modified: 2026-11-03T20:02:44.886Z
+published: 2026-11-03T20:02:44.886Z
+noteOrder: 1
 ---
 
 Скачать Obsidian можно с официального сайта: **<https://obsidian.md/download>**.

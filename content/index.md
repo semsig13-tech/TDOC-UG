@@ -1,8 +1,12 @@
 ---
-title: Welcome
 publish: true
+title: Руководство по ведению документации TDOC
+created: 2026-11-03T19:59:11.915Z
+modified: 2026-11-03T20:52:28.224Z
 ---
 
-Welcome to your Quartz site! This is your home page.
+Настоящее руководство описывает единые правила оформления технической документации в хранилище (vault) Obsidian, публикуемом на портале TDOC. Документ предназначен для авторов, редакторов и сопровождающих документацию, а также для тех, кто создаёт собственное хранилище с нуля.
 
-Edit this note in Obsidian, then publish it with Quartz Syncer.
+# Ссылки на скачивание:
+
+# Навигация:
